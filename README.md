@@ -1,5 +1,13 @@
 # Atelierex
 
+## Tech Stack
+* PostgreSQL
+* Node.js
+* AWS
+* K6
+* Loader.io
+* NGINX
+
 ## Overview
 **_Atelierex_** is an API built to support an existing e-commerce frontend. The goal was to replace an existing API ("Atelier") with a robust backend system that can support the full dataset of the project and can scale to meet the demands of production traffic.
 
